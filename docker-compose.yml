@@ -16,6 +16,6 @@ services:
       - POSTGRES_PASSWORD=mypassword
   volumes:
     drupal-modules:
-    drupal-themes:
+    drupal-profiles:
     drupal-sites:
     drupal-themes:
