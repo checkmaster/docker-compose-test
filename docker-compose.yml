@@ -15,7 +15,7 @@ services:
     environment:
       - POSTGRES_PASSWORD=mypassword
   volumes:
-    - drupal-modules:
-    - drupal-themes:
-    - drupal-sites:
-    - drupal-themes:
+    drupal-modules:
+    drupal-themes:
+    drupal-sites:
+    drupal-themes:
